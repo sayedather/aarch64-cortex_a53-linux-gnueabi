@@ -3,7 +3,7 @@
 GCC 6.4.1 - Build 2.03.20171018
 
 
-Built with crosstool-ng-1.23.0-236-g42429d9
+Built with crosstool-ng-1.23.0-238-g6a8eb24
 
 ## Components used
 
@@ -11,7 +11,7 @@ Built with crosstool-ng-1.23.0-236-g42429d9
 - autoconf-2.69
 - automake-1.15.1
 - libtool-2.4.6
-- linux-4.13.8
+- linux-4.13.9
 - gmp-6.1.2
 - mpfr-3.1.6
 - isl-0.18
@@ -20,12 +20,13 @@ Built with crosstool-ng-1.23.0-236-g42429d9
 - libiconv-1.15
 - gettext-0.19.8.1
 - binutils-2.29
-- gcc-6 (aa641d09 snapshot)
+- gcc-6 (f9f734e0 snapshot)
 - glibc-2.26
 - gdb-8.0
 
 ## Changelog
 
+- 2.04.20171023: Updated Crosstool-NG, GCC (f9f734e0 snapshot), and Linux 4.13.9
 - 2.03.20171018: Updated GCC (955cfae4 snapshot), and Linux 4.13.8
 - 2.02.20171015: Updated GCC (aa641d09 snapshot), and Linux 4.13.7
 - 2.01.20171013: Updated GCC (43728aee snapshot), and Linux 4.13.6
