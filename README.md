@@ -1,6 +1,6 @@
 # aarch64-cortex_a53-linux-gnueabi
 
-GCC 6.4.1 - Build 2.05.20171027
+GCC 6.4.1 - Build 2.06.20171102
 
 
 Built with crosstool-ng-1.23.0-240-gaec73d9
@@ -11,7 +11,7 @@ Built with crosstool-ng-1.23.0-240-gaec73d9
 - autoconf-2.69
 - automake-1.15.1
 - libtool-2.4.6
-- linux-4.13.10
+- linux-4.13.11
 - gmp-6.1.2
 - mpfr-3.1.6
 - isl-0.18
@@ -20,12 +20,13 @@ Built with crosstool-ng-1.23.0-240-gaec73d9
 - libiconv-1.15
 - gettext-0.19.8.1
 - binutils-2.29
-- gcc-6 (fb3cef96 snapshot)
+- gcc-6 (5fd75687 snapshot)
 - glibc-2.26
 - gdb-8.0
 
 ## Changelog
 
+- 2.06.20171102: Updated GCC (5fd75687 snapshot), and Linux 4.13.11
 - 2.05.20171027: Updated Crosstool-NG, GCC (fb3cef96 snapshot), and Linux 4.13.10
 - 2.04.20171023: Updated Crosstool-NG, GCC (f9f734e0 snapshot), and Linux 4.13.9
 - 2.03.20171018: Updated GCC (955cfae4 snapshot), and Linux 4.13.8
