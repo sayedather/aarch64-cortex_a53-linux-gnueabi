@@ -39,7 +39,7 @@ EOF
       exit 0
       ;;
     --v | --ve | --ver | --vers | --versi | --versio | --version)
-      echo 'catchsegv (crosstool-NG crosstool-ng-1.23.0-280-g01e3290 - Linux 4.14.5 by djb77) 2.26'
+      echo 'catchsegv (crosstool-NG crosstool-ng-1.23.0-280-g01e3290 - Linux 4.14.6 by djb77) 2.26'
       echo 'Copyright (C) 2017 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
