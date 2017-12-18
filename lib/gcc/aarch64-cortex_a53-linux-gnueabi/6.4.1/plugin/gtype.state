@@ -4,7 +4,7 @@
 ;;; Don't parse this file wihout knowing GCC gengtype internals.
 ;;; This file should be parsed by the same gengtype which wrote it.
 
-(!version  "6.4.1 20171214")
+(!version  "6.4.1 20171215")
 (!srcdir  "/home/djb77/android/crosstool-ng/.build/aarch64-cortex_a53-linux-gnueabi/src/gcc/gcc")
 (!languages 10 ada c cp fortran go java jit lto objc objcp)
 (!fileslist 201
@@ -25753,7 +25753,7 @@
   nil )
  (!pair  "vinfo_t"
   (!type already_seen 965)
-  (!srcfileloc  "ada/gcc-interface/decl.c" 7138)
+  (!srcfileloc  "ada/gcc-interface/decl.c" 7139)
   nil )
  (!pair  "intrin_binding_t"
   (!type already_seen 967)
